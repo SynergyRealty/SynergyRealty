@@ -1,0 +1,51 @@
+.container-team-sales{
+    padding: 10px ;
+    border: 1px solid #ccc;
+    transition: 0.3s;
+    border-radius: 5px; /* 5px rounded corners */
+    width: 30%;
+    float: left;
+    margin: 15px;
+    background-color: #f1f1f1;
+  }
+
+/*table,th,td{
+    width: 100%;
+    margin: auto;
+    font-size: 25px;
+    padding: 20px;
+    text-align: center;
+    border: 2px solid #ddd;
+    border-collapse: collapse ;
+}*/
+
+#myTable {
+    border-collapse: collapse;  /* Collapse borders */
+    width: 100%; /* Full-width */
+    border: 1px solid #ddd; /* Add a grey border */
+    font-size: 18px; /* Increase font-size */
+  }
+  
+  #myTable th, #myTable td {
+    text-align: center; /* Left-align text */
+    padding: 12px; /* Add padding */
+  }
+
+  #myTable td {
+    border-left: 1px solid #ddd;
+  }
+  
+  #myTable tr {
+    /* Add a bottom border to all table rows */
+    border-bottom: 1px solid #ddd;
+  }
+  
+  #myTable tr.header, #myTable tr:hover {
+    /* Add a grey background color to the table header and on hover */
+    background-color: #f1f1f1;
+  }
+
+  #myTable tr.filtertable{
+    /* Add a grey background color to the table header and on hover */
+    background-color: white;
+  }
