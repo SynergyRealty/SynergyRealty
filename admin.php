@@ -12,7 +12,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Admin Hello - Synergy Realty</title>
+  <title>Admin - Synergy Realty</title>
 
   <!-- CSS FILES -->
   <link href="admin.css" rel="stylesheet">
